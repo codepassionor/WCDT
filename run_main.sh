@@ -1,0 +1,1 @@
+nohup python3 -u main.py >> main.log &
